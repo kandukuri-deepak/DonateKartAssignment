@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADEQoLQySDabFzdYBluzqmeYIAMarztuHYBL19EtYBkcAjzkmh06n8kfZHyJC6HFIgnJegLW1Kt0iMdTWeWK7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sride\\Desktop\\Donatekart\\DonateKartAssignment\\DonateKartBusiness\\DonateKartBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sride\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sride\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\sride\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
